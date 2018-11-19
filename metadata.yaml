@@ -1,0 +1,47 @@
+_repo: Novellenbuch-1-Band_58306
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Spielhagen, Friedrich
+    birthdate: 1829
+    deathdate: 1911
+    gutenberg_agent_id: '37099'
+    url: http://www.gutenberg.org/2009/agents/37099
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_von_Spielhagen
+  - agent_name: Meyer, Conrad Ferdinand
+    aliases:
+    - Meyer-Ziegler, Konrad Ferdinand
+    - Meyer, C. F. (Conrad Ferdinand)
+    - Meyer, Konrad Ferdinand
+    birthdate: 1825
+    deathdate: 1898
+    gutenberg_agent_id: '1259'
+    url: http://www.gutenberg.org/2009/agents/1259
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
+    - http://en.wikipedia.org/wiki/Conrad_Ferdinand_Meyer
+  - agent_name: Wildenbruch, Ernst von
+    aliases:
+    - Wildenbruch, Adam Ernst von
+    - Von Wildenbruch, Ernst
+    birthdate: 1845
+    deathdate: 1909
+    gutenberg_agent_id: '25764'
+    url: http://www.gutenberg.org/2009/agents/25764
+    wikipedia: http://en.wikipedia.org/wiki/Ernst_von_Wildenbruch
+  - agent_name: Liliencron, Detlev von
+    gutenberg_agent_id: '49884'
+    url: http://www.gutenberg.org/2009/agents/49884
+description: ''
+gutenberg_issued: '2018-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58306'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Novellenbuch 1. Band
+url: http://www.gutenberg.org/ebooks/58306
